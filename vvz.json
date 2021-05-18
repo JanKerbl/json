@@ -89,7 +89,8 @@
             "04.21 Erweiterungscurriculum Quantitative Grundlagen der Volkswirtschaftslehre (546)",
             "04.22 Lehrveranstaltungen im Sommer",
             "04.23 Master Business Analytics (977)"
-        ][
+        ]
+    },
     {
         "spl": "Besondere Lehrangebote",
         "classes": [
@@ -212,7 +213,7 @@
             "06.02 Ägyptologie",
             "06.03 Judaistik",
             "06.04 Numismatik",
-            "06.05 Interdisziplinäre Erweiterungscurricula",
+            "06.05 Interdisziplinäre Erweiterungscurricula"
 
         ]
     },
@@ -472,6 +473,7 @@
 			"26.07 Master Lehramt UF Physik (196 058, 199 523)",
 			"26.08 Erweiterungscurriculum (Interdisziplinär) Naturwissenschaftliches Denken: Fallbeispiele, Grundlagen und Einflüsse (261 [2] - Version 2015)",
 			"26.09 Sonstige Lehrveranstaltungen"
+			]
 	},
 	{
 		"spl": "Chemie",
@@ -484,7 +486,7 @@
 			"27.06 Master Biologische Chemie (863)",
 			"27.07 Master Lehramt UF Chemie (199 504)"
 			]
-	}
+	},
 	{
 		"spl": "Erdwissenschaften, Meteorologie-Geophysik und Astronomie",
 		"classes": [
@@ -500,7 +502,7 @@
 			"28.10 Master Meteorologie (614)",
 			"28.11 Master Physics of the Earth - Joint Curriculum (680)",
 			"28.12 Erweiterungscurriculum Geowissenschaftliche Grundlagen (280)",
-			"28.13 Erweiterungscurriculum Geowissenschaftliche Grundlagen - Vertiefung 15/16/17 ECTS (281)",
+			"28.13 Erweiterungscurriculum Geowissenschaftliche Grundlagen - Vertiefung 15/16/17 ECTS (281)"
 		]
 	},
 	{
@@ -615,7 +617,7 @@
 		"spl": "Doktoratsstudium Wirtschaftswissenschaften",
 		"classes": [
 			"39.01 PhD Wirtschaftswissenschaften (370, 784 [3] - Version 2009)",
-			"39.02 Doktorat Wirtschaftswissenschaften (305, 784 [3] - Version 2009)"
+			"39.02 Doktorat Wirtschaftswissenschaften (305, 784 [3] - Version 2009)"]
 	},
 	{	"spl": "Doktoratsstudium Sozialwissenschaften",
 		"classes": 
@@ -749,168 +751,3 @@
 	}
 ]
 	
-		
-		
-			
-
-		
-
-			
-
-
-	
-
-			
-
-			
-		
-			
-
-	
-	
-			
-		
-
-		
-
-
-		
-
-			
-
-			
-	
-
-			
-			
-			
-
-			
-
-
-
-		
-
-		
-
-		
-		
-		
-
-		
-		
-
-			
-		
-		
-		
-			
-						
-
-		
-
-		
-			
-
-		
-
-		
-
-	
-
-	
-
-]
-    },
-    {
-        "spl": "Informatik und Wirtschaftsinformatik",
-        "classes": [
-            "05.01 Bachelor Informatik 2016 (521 [4])",
-            "05.02 Bachelor Informatik 2016 (521 [4]) - Data Science",
-            "05.03 Bachelor Informatik 2016 (521 [4]) - Medieninformatik",
-            "05.04 Bachelor Informatik 2016 (521 [4]) - Medizininformatik",
-            "05.05 Bachelor Informatik 2016 (521 [4]) - Scientific Computing",
-            "05.06 Bachelor Wirtschaftsinformatik 2016 (526 [3])",
-            "05.07 Bachelor Lehramt UF Informatik (193 053 [1], 198 414 [1])",
-            "05.08 Master Bioinformatik (875 [1])",
-            "05.09 Master Data Science (645 [1])",
-            "05.10 Master Informatik (921 [1])",
-            "05.11 Master Informatik (921 [1]) - Data Science",
-            "05.12 Master Informatik (921 [1]) - Scientific Computing",
-            "05.13 Master Medieninformatik 2016 (935 [2])",
-            "05.14 Master Wirtschaftsinformatik 2016 (926 [2])",
-            "05.15 Master Lehramt UF Informatik (196 053 [1], 199 514 [1])",
-            "05.16 Master Informatikdidaktik (950 [1]) - auslaufend",
-            "05.17 Erweiterungscurriculum (EC) Computational Thinking / Informatik (050 [1])",
-            "05.18 Sonstiges Lehrangebot"
-        ]
-    },
-    {
-        "spl": "Ägyptologie, Judaistik, Urgeschichte und Historische Archäologie",
-        "classes": [
-            "06.01 Urgeschichte und Historische Archäologie",
-            "06.02 Ägyptologie",
-            "06.03 Judaistik",
-            "06.04 Numismatik",
-            "06.05 Interdisziplinäre Erweiterungscurricula",
-
-        ]
-    },
-    {
-        "spl": "Geschichte",
-        "classes": [
-            "07.01 Bachelor Geschichte (603 [4] - Version 2019)",
-            "07.02 Bachelor Geschichte (603 [3] - Version 2012) - auslaufend",
-            "07.03 Bachelor Lehramt UF Geschichte, Sozialkunde und Politische Bildung (193 050, 198 411)",
-            "07.04 Diplom Lehramt UF Geschichte, Sozialkunde und Politische Bildung (190 313) - auslaufend",
-            "07.05 Erweiterungscurriculum Geschichte (071)",
-            "07.06 Erweiterungscurriculum Zeitgeschichte und Medien (072)",
-            "07.07 Master Lehramt UF Geschichte, Sozialkunde und Politische Bildung (196 050, 199 511)",
-            "07.08 Master Geschichte (803 [3] - Version 2019)",
-            "07.09 Master Geschichte (803 [2] - Version 2014) - auslaufend",
-            "07.10 Master Historische Hilfswissenschaften und Archivwissenschaft (804 [4] - Version 2019)",
-            "07.11 Master Geschichtsforschung, Historische Hilfswissenschaften und Archivwissenschaft (804 [3] - Version 2016) - auslaufend",
-            "07.12 Master Globalgeschichte & Global Studies (805 [3] - Version 2019)",
-            "07.13 Master Globalgeschichte & Global Studies (805 [2] - Version 2008) - auslaufend",
-            "07.14 Master Interdisziplinäre Osteuropastudien (610 [2] - Version 2019)",
-            "07.15 Master Interdisziplinäre Osteuropastudien (610 [1] - Version 2015) - auslaufend",
-            "07.16 Interdisziplinärer Master Zeitgeschichte und Medien (665 [2] - Version 2019)",
-            "07.17 Interdisziplinärer Master Zeitgeschichte und Medien (665 [1] - Version 2016) - auslaufend"
-
-        ]
-    },
-    {
-        "spl": "Kunstgeschichte und Europäische Ethnologie",
-        "classes": [
-            "08.01 Kunstgeschichte",
-            "08.02 Europäische Ethnologie",
-        ]
-
-    },
-    {
-        "spl": "Altertumswissenschaften",
-        "classes": [
-            "09.01 Alte Geschichte und Altertumskunde",
-            "09.02 Byzantinistik und Neogräzistik",
-            "09.03 Klassische Archäologie",
-            "09.04 Klassische Philologie, Mittel- und Neulatein"
-        ]
-    },
-    {
-        "spl": "Deutsch Philologie",
-        "classes": [
-            "10.01 Bachelor Deutsche Philologie (617 [2] - Version 2011)",
-            "10.02 Bachelor Lehramt UF Deutsch (193 045, 198 406)",
-            "10.03 Master Deutsch als Fremd- und Zweitsprache (814 [2] - Version 2017)",
-            "10.04 Master Deutsche Philologie (817)",
-            "10.05 Master Austrian Studies - Cultures, Literatures, Languages (Österreichstudien - Kulturen, Literaturen, Sprachen) (818)",
-            "10.06 Master Lehramt UF Deutsch (196 045, 199 506)",
-            "10.07 Erweiterungscurriculum Deutsche Philologie im Überblick (104)",
-            "10.08 Erweiterungscurriculum Deutsche Sprache (105)",
-            "10.09 Erweiterungscurriculum Deutschsprachige Literatur (106)",
-            "10.10 Erweiterungscurriculum Akademische Schreibkompetenz entwickeln, vermitteln und beforschen - Ausbildung von SchreibmentorInnen (107)",
-            "10.11 Lehrveranstaltungen mit Genderschwerpunkt",
-            "10.12 Fachtutorien"
-        ]
-    }
-]
