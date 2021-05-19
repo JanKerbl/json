@@ -513,14 +513,14 @@
 	},
 	{
 		"spl": "Doktoratsstudium Evangelische Theologie",
-		"classes":  [
+		"classes": [
 			"37.01 Doktoratsstudium Evangelische Theologie / PhD Advanced Theological Studies",
 			"37.02 Doktorat Evangelische Fachtheologie (082) - auslaufend"
 			]
 	},
 	{
 		"spl": "Doktoratsstudium Rechtswissenschaften",
-		"classes": "38.01 Doktorat Rechtswissenschaften/PhD Interdisciplinary Legal Studies"
+		"classes": ["38.01 Doktorat Rechtswissenschaften/PhD Interdisciplinary Legal Studies"]
 	},
 	{
 		"spl": "Doktoratsstudium Wirtschaftswissenschaften",
@@ -529,8 +529,8 @@
 			"39.02 Doktorat Wirtschaftswissenschaften (305, 784 [3] - Version 2009)"]
 	},
 	{	"spl": "Doktoratsstudium Sozialwissenschaften",
-		"classes": 
-			"40.01 Sozialwissenschaften"
+		"classes": [
+			"40.01 Sozialwissenschaften"]
 	},
 	{
 		"spl": "Historisch-Kulturwissenschaftliches Doktoratsstudium",
@@ -578,6 +578,14 @@
 			"45.04 Geographie",
 			"45.05 Environmental Sciences"
 			]
+	},
+	{
+	"spl": " ",
+	"classes": []
+	},
+		{
+	"spl": " ",
+	"classes": []
 	},
 	{
 		"spl": "Slawistik",
